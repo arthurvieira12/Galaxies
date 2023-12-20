@@ -1,2 +1,2 @@
 # Galaxies
- Plicando conceitos de GRID
+ Aplicando conceitos de GRID
